@@ -577,7 +577,7 @@
 
 	.icon {
 		text-decoration: none;
-		border-bottom: none;
+		border-radius: none;
 		position: relative;
 	}
 
@@ -1573,7 +1573,7 @@
 		}
 
 		.next {
-    		background-color: #4CAF50;
+    		background-color: #33BB99;
     		color: white;
 		}
 
